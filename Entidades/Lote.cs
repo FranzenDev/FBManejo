@@ -1,5 +1,4 @@
-﻿using FBManejoV2.Entidades;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace Domain.Entities;
 

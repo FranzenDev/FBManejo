@@ -1,6 +1,4 @@
-﻿using FBManejoV2.Entidades;
-
-namespace Domain.Entities;
+﻿namespace Domain.Entities;
 
 public class Manejo
 {
