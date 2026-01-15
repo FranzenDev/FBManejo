@@ -1,0 +1,6 @@
+@FBManejoV2_HostAddress = http://localhost:5169
+
+GET {{FBManejoV2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
